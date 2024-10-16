@@ -1,4 +1,4 @@
-# drug-likeness
+# Drug-Likeness Evaluation Project (Aigen Drug) 
 2023 Fall 창의적통합설계 w/ AIgenDrug
 
 ![Alt text](attachments/image.png)
